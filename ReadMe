@@ -1,4 +1,4 @@
-# pascal_format
+Developer: Lev Levin (lcs_spb@yandex.ru)
 
 Library "pascal_format" is a static library on C++11 language, implementing a single function "FormatStr".
 This function works very similar to the Format function from Borland Delphi. In other words, it takes 2 parameters: a string template with format specifiers and a set of substituted values, represented as a separate object; and returns
